@@ -1,0 +1,22 @@
+PODS:
+  - CMULogining (0.1.0):
+    - CMUNetworking
+  - CMUNetworking (0.1.0)
+
+DEPENDENCIES:
+  - CMULogining (from `Lib/CMULogining`)
+  - CMUNetworking (from `Lib/CMUNetworking`)
+
+EXTERNAL SOURCES:
+  CMULogining:
+    :path: Lib/CMULogining
+  CMUNetworking:
+    :path: Lib/CMUNetworking
+
+SPEC CHECKSUMS:
+  CMULogining: 2b563f6b34ba3f4e37e35f14ea691c5e3201a494
+  CMUNetworking: bc4df0d06daabadbad02bb65e5ca153b6b097383
+
+PODFILE CHECKSUM: 67f4d2bfc0135a6602c5c205f81227718db9d932
+
+COCOAPODS: 1.8.3

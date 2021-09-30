@@ -1,0 +1,22 @@
+{
+  "name": "CMUNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of CMUNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenmeng/CMUNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenmeng": "chenmeng22@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/chenmeng/CMUNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CMUNetworking/Classes/**/*"
+}

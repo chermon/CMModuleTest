@@ -1,0 +1,6 @@
+framework module CMUNetworking {
+  umbrella header "CMUNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

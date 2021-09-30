@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-CMModuleTest-CMModuleTestUITests/Pods-CMModuleTest-CMModuleTestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CMULogining/CMULogining.framework
+${BUILT_PRODUCTS_DIR}/CMUNetworking/CMUNetworking.framework

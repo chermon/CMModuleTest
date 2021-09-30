@@ -1,0 +1,6 @@
+framework module CMULogining {
+  umbrella header "CMULogining-umbrella.h"
+
+  export *
+  module * { export * }
+}
